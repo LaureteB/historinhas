@@ -1,28 +1,27 @@
 	body {
 
 	}
-	
-	h1{
-		
 
-	}
-
-	p{
+	h1 {
 		text-align: center;
 	}
 
-	img{
-		
+	p {
+		text-align: center;
 	}
-	
-	.imgindex{
-		
+
+	img {
+
 	}
-	
+
+	.imgindex {
+
+	}
+
 	#principal {
 		
 	}
 
 	* {
-    background-color:rgb(255, 245, 233) ;
-}
+		background-color: rgb(255, 245, 233);
+	}
