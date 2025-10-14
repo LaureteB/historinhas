@@ -14,8 +14,14 @@
 	}
 
 	.imgfabula {
-		width: 10px;
-  		height: auto;
+		background-position: center center;
+		/* Alinha no centro horizontal e vertical */
+		background-repeat: no-repeat;
+		/* Para não repetir a imagem */
+		width: 200px;
+		/* Largura do elemento */
+		height: 150px;
+		/* Altura do elemento */
 	}
 
 	.imgindex {
@@ -41,19 +47,19 @@
 		text-decoration: none;
 	}
 
-	a:hover{
+	a:hover {
 		color: rgb(255, 255, 255);
 	}
 
 	button {
-    background-color: #fff9e3;
-    text-align: center;
-    width: 150px;
-    height: 75px;
-    box-shadow: 5px 5px 10px hsl(0, 0%, 83%);
-    display: block;
-    margin: auto;
-    border-width: 1px;
-	font-size: 15px;
-	text-transform: uppercase ;
-}
+		background-color: #fff9e3;
+		text-align: center;
+		width: 150px;
+		height: 75px;
+		box-shadow: 5px 5px 10px hsl(0, 0%, 83%);
+		display: block;
+		margin: auto;
+		border-width: 1px;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
