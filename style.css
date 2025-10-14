@@ -8,7 +8,7 @@
 	}
 
 	p{
-		
+		text-align: center;
 	}
 
 	img{
@@ -22,3 +22,7 @@
 	#principal {
 		
 	}
+
+	* {
+    background-color:rgb(255, 245, 233) ;
+}
