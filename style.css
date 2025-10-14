@@ -13,7 +13,10 @@
 		text-align: center;
 	}
 
-	img {}
+	.imgfabula {
+		width: 80px;
+  		height: auto;
+	}
 
 	.imgindex {
 		margin: 10px;
