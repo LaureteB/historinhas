@@ -37,3 +37,14 @@
 		color: #000;
 		text-decoration: none;
 	}
+
+	button {
+    background-color: #ff3a3a;
+    text-align: center;
+    width: 150px;
+    height: 75px;
+    box-shadow: 5px 5px 10px hsl(101, 100%, 50%);
+    display: block;
+    margin: auto;
+    border-width: 1px;
+}
