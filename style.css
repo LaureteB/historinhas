@@ -39,11 +39,11 @@
 	}
 
 	button {
-    background-color: #ff3a3a;
+    background-color: #fff9e3;
     text-align: center;
     width: 150px;
     height: 75px;
-    box-shadow: 5px 5px 10px hsl(101, 100%, 50%);
+    box-shadow: 5px 5px 10px hsl(0, 0%, 83%);
     display: block;
     margin: auto;
     border-width: 1px;
