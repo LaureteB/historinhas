@@ -47,4 +47,6 @@
     display: block;
     margin: auto;
     border-width: 1px;
+	font-size: 10px;
+	text-transform: uppercase ;
 }
