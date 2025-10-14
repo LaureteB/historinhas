@@ -21,6 +21,7 @@
 		height: 400px;
 		/* Altura do elemento */
 		border-radius: 30px;
+		max-width: 100%;
 	}
 
 	.imgindex {
