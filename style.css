@@ -1,27 +1,26 @@
 	body {
-    margin: 0px;
-    padding: 0px;
-    font-family: sans-serif;
-}
+		margin: 0px;
+		padding: 0px;
+		font-family: sans-serif;
+	}
 
 	h1 {
 		text-align: center;
+		background-color: antiquewhite;
 	}
 
 	p {
 		text-align: center;
 	}
 
-	img {
-
-	}
+	img {}
 
 	.imgindex {
 		margin: 10px;
 	}
 
 	#principal {
-
+		color: #3cff00;
 	}
 
 	* {
@@ -29,12 +28,12 @@
 	}
 
 	body {
-    margin: 0px;
-    padding: 0px;
-    font-family: sans-serif;
-}
+		margin: 0px;
+		padding: 0px;
+		font-family: sans-serif;
+	}
 
-a {
-    color: #000;
-    text-decoration: none;
-}
+	a {
+		color: #000;
+		text-decoration: none;
+	}
