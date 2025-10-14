@@ -14,7 +14,9 @@
 	}
 
 	.imgfabula {
-		background-position: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 		width: 600px;
 		/* Largura do elemento */
 		height: 400px;
