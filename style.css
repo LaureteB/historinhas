@@ -38,6 +38,10 @@
 		text-decoration: none;
 	}
 
+	a:hover{
+		color: aqua;
+	}
+
 	button {
     background-color: #fff9e3;
     text-align: center;
