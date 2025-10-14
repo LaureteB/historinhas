@@ -16,8 +16,6 @@
 	.imgfabula {
 		background-position: center center;
 		/* Alinha no centro horizontal e vertical */
-		background-repeat: no-repeat;
-		/* Para não repetir a imagem */
 		width: 600px;
 		/* Largura do elemento */
 		height: 400px;
