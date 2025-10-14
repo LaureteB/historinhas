@@ -14,8 +14,7 @@
 	}
 
 	.imgfabula {
-		background-position: center center;
-		/* Alinha no centro horizontal e vertical */
+		background-position: center;
 		width: 600px;
 		/* Largura do elemento */
 		height: 400px;
