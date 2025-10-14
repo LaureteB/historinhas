@@ -22,6 +22,7 @@
 		/* Largura do elemento */
 		height: 400px;
 		/* Altura do elemento */
+		border-radius: 30px;
 	}
 
 	.imgindex {
