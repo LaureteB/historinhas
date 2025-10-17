@@ -16,12 +16,16 @@
 
 	.imgfabula {
 		display: flex;
-		width: 600px; /* Largura do elemento */
-		height: 400px; /* Altura do elemento */
+		width: 600px;
+		/* Largura do elemento */
+		height: 400px;
+		/* Altura do elemento */
 		border-radius: 30px;
 		max-width: 100%;
-		display: block; /* Define a imagem como um bloco */
-  		margin: 0 auto; /* Centraliza a imagem horizontalmente */
+		display: block;
+		/* Define a imagem como um bloco */
+		margin: 0 auto;
+		/* Centraliza a imagem horizontalmente */
 	}
 
 	* {
@@ -55,4 +59,9 @@
 		font-size: 15px;
 		text-transform: uppercase;
 		border-radius: 30px;
+		transition: transform 0.3s ease;
+	}
+
+	button:hover {
+		transform: scale(1.1); /* Aumenta o botão em 10% */
 	}
