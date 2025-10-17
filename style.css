@@ -15,14 +15,12 @@
 
 	.imgfabula {
 		display: flex;
-		justify-content: center;
-		align-items: center;
-		width: 600px;
-		/* Largura do elemento */
-		height: 400px;
-		/* Altura do elemento */
+		width: 600px; /* Largura do elemento */
+		height: 400px; /* Altura do elemento */
 		border-radius: 30px;
 		max-width: 100%;
+		display: block; /* Define a imagem como um bloco */
+  		margin: 0 auto; /* Centraliza a imagem horizontalmente */
 	}
 
 	* {
